@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cz-oca
+Version: 1.0.0
+Summary: Extend the commitizen tools for OCA.
+Home-page: https://github.com/OCA/vz-oca
+Author: Enric Tobella, Odoo Community Association (OCA)
+Author-email: f.krause@apheris.com
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+CZ OCA
+------
+
+
